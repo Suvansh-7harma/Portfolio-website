@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Geekstermon",
+    "imageSrc": "projects/Screenshot (320).png",
+    "description": "Data fetch and display with many features",
+    "skills": ["Css","Javascript"],
+    "demo": "https://suvansh-7harma.github.io/Geekstermon/",
+    "source": "https://github.com/Suvansh-7harma/Geekstermon"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/Screenshot (321).png",
+    "description": "It generate customized strong password ",
+    "skills": ["React"],
+    "demo": "https://password-generator-topaz-six.vercel.app/",
+    "source": "https://github.com/Suvansh-7harma/passwordGenerator"
+  }
+]

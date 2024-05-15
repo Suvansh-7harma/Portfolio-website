@@ -1,0 +1,19 @@
+[
+  {
+    "role": "BCA",
+    "organisation": "kurukshetra University",
+    "startDate": "Sept, 2021",
+    "endDate": "2023",
+    "experiences": ["Web Design", "Computer Fundamentals"],
+    "imageSrc": "history/kuk_logo.webp"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Geekster",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["React.js", "Node.js"],
+    "imageSrc": "history/Geekster_logo.webp"
+  }
+  
+]
