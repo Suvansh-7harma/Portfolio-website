@@ -2,17 +2,33 @@
   {
     "title": "Geekstermon",
     "imageSrc": "projects/Screenshot (320).png",
-    "description": "Data fetch and display with many features",
-    "skills": ["Css","Javascript"],
+    "description": "Data fetch and display Cards",
+    "skills": ["API","Javascript","Array Methods"],
     "demo": "https://suvansh-7harma.github.io/Geekstermon/",
     "source": "https://github.com/Suvansh-7harma/Geekstermon"
   },
   {
-    "title": "Password Generator",
-    "imageSrc": "projects/Screenshot (321).png",
-    "description": "It generate customized strong password ",
-    "skills": ["React"],
-    "demo": "https://password-generator-topaz-six.vercel.app/",
-    "source": "https://github.com/Suvansh-7harma/passwordGenerator"
+    "title": "LeaderBoard",
+    "imageSrc": "projects/Screenshot (336).png",
+    "description": "CRUD Operation",
+    "skills": ["Javascript"],
+    "demo": "https://suvansh-7harma.github.io/LEADERBOARD/",
+    "source": "https://github.com/Suvansh-7harma/LEADERBOARD/"
+  },
+  {
+    "title": "EmojiProject",
+    "imageSrc": "projects/Screenshot (337).png",
+    "description": "Fetch data based on search value",
+    "skills": ["Javascript","API"],
+    "demo": "https://suvansh-7harma.github.io/EMOJI_PROJECT/",
+    "source": "https://github.com/Suvansh-7harma/EMOJI_PROJECT/"
+  },
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/Screenshot (338).png",
+    "description": "UI design",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/design/gGPYAjMfIVMq71xv7pgrHy/Netflix?node-id=0-1",
+    "source": "https://www.figma.com/design/gGPYAjMfIVMq71xv7pgrHy/Netflix?node-id=0-1"
   }
 ]

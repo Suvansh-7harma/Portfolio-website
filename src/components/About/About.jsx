@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm Suvansh a frontend developer with experience in building responsive
-                and optimized sites . Practice more 100 Mini projects and 200+ DSA Challenges while learning web developement !
+                and optimized sites . Practice more than 100 Mini projects and 200+ DSA Challenges while learning web developement !
               </p>
             </div>
           </li>
