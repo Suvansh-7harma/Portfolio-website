@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -24,7 +23,7 @@ export const Contact = () => {
           </a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/resumeIcon.png")} alt="Resume" />
+          <img  src={getImageUrl("contact/resumeIcon.avif")} alt="Resume" />
           <a href="https://docs.google.com/document/d/18o1HI2kEVzAmqEu9sHKrv9wzjKgsmtg_N_-mRradbus/edit">
             Click here for Resume
           </a>

@@ -25,6 +25,7 @@
 }
 
 .links {
+ 
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -36,14 +37,20 @@
   display: flex;
   align-items: center;
   gap: 25px;
+ 
 }
-
+.link img {
+  width: 80px;
+  height: 70px;
+  
+}
 .link a {
   color: var(--color-text);
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 1.5px;
+  
 }
 
 @media screen and (max-width: 830px) {
@@ -59,6 +66,7 @@
   }
 
   .links {
-    align-items: center;
+    display: flex;
+    align-items: start;
   }
 }
