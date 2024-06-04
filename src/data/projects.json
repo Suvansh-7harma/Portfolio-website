@@ -1,5 +1,13 @@
 [
   {
+    "title": "E-commerce",
+    "imageSrc": "projects/Screenshot (344).png",
+    "description": "Buy & sell",
+    "skills": ["React.js, Firebase, Redux"],
+    "demo": "e-commerce-eight-lemon-75.vercel.app",
+    "source": "https://github.com/Suvansh-7harma/E-commerce"
+  },
+  {
     "title": "Geekstermon",
     "imageSrc": "projects/Screenshot (320).png",
     "description": "Data fetch and display Cards",
