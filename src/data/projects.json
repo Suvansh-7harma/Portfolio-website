@@ -2,7 +2,7 @@
   {
     "title": "E-commerce",
     "imageSrc": "projects/Screenshot (344).png",
-    "description": "Buy & sell",
+    "description": "Buy & sell with Dashboards",
     "skills": ["React.js, Firebase, Redux"],
     "demo": "https://e-commerce-eight-lemon-75.vercel.app/",
     "source": "https://github.com/Suvansh-7harma/E-commerce"
@@ -11,25 +11,17 @@
     "title": "Geekstermon",
     "imageSrc": "projects/Screenshot (320).png",
     "description": "Data fetch and display Cards",
-    "skills": ["API","Javascript","Array Methods"],
+    "skills": ["API", "Javascript", "Array Methods"],
     "demo": "https://suvansh-7harma.github.io/Geekstermon/",
     "source": "https://github.com/Suvansh-7harma/Geekstermon"
   },
   {
-    "title": "LeaderBoard",
-    "imageSrc": "projects/Screenshot (336).png",
-    "description": "CRUD Operation",
-    "skills": ["Javascript"],
-    "demo": "https://suvansh-7harma.github.io/LEADERBOARD/",
-    "source": "https://github.com/Suvansh-7harma/LEADERBOARD/"
-  },
-  {
-    "title": "EmojiProject",
-    "imageSrc": "projects/Screenshot (337).png",
-    "description": "Fetch data based on search value",
-    "skills": ["Javascript","API"],
-    "demo": "https://suvansh-7harma.github.io/EMOJI_PROJECT/",
-    "source": "https://github.com/Suvansh-7harma/EMOJI_PROJECT/"
+    "title": "Receipe Finder",
+    "imageSrc": "projects/receipe-finder_thumbnail.PNG",
+    "description": "Data fetch and display recipe",
+    "skills": ["API", "Javascript", "React.js"],
+    "demo": "https://placement-module.vercel.app/",
+    "source": "https://github.com/Suvansh-7harma/Placement-module?tab=readme-ov-file"
   },
   {
     "title": "Netflix Clone",
